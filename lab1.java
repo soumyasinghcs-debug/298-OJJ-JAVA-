@@ -1,5 +1,5 @@
 import java.util.*;
- public class quadratic{
+ public class lab1{
     public static void main(String[] args ){
         Scanner sc=new Scanner(System.in);
         double a,b,c,d;
@@ -43,6 +43,7 @@ import java.util.*;
 
 
        
+
 
 
 
